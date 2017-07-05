@@ -21,6 +21,13 @@ data = pd.read_csv('C:/Users/dirving/Downloads/parse_results_Fri__09_Jun_2017_20
 data.T
 
 
+# In[1]:
+
+# Test to see if anything was versioned
+
+
+# # Test to see if anything was versioned
+
 # In[2]:
 
 # # #programmatically verify bankruptcy
